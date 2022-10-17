@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Another Life LTD</title>
+    <link>https://anotherlife.ltd/</link>
+    <description>Recent content on Another Life LTD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anotherlife.ltd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anotherlife.ltd/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherlife.ltd/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://anotherlife.ltd/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherlife.ltd/about/</guid>
+      <description> *TL;DR We&amp;rsquo;re a label / recording and production collective / loose association of bands in Chicago that have united to create and release music. We specialize in experimental sounds appropriate both on and off the dancefloor, with strong ties to punk and DIY.
+Artists Courtesy Beige on Beige Funish People David Beale: founder, facilitator, 1/4 of Beige on Beige, 1/1 of Funish </description>
+    </item>
+    
+    <item>
+      <title>Releases</title>
+      <link>https://anotherlife.ltd/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherlife.ltd/releases/</guid>
+      <description> Future ALL001: Beige on Beige - mixtape #1 cassette ALL002: funish - designate/transformula single cassette ALL003: Courtesy - Hey (reissue) LP Past N/A </description>
+    </item>
+    
+  </channel>
+</rss>
