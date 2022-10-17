@@ -1,0 +1,43 @@
+baseURL = 'https://anotherlife.ltd'
+languageCode = 'en-us'
+title = 'Another Life LTD'
+theme = "archie"
+
+[params]
+	mode="light"
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+
+# Social Tags
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "foo"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/athulcajay/"
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "releases"
+url = "/releases"
+weight = 3
+
+[[menu.main]]
+name = "contact"
+url = "/contact"
+weight = 4
