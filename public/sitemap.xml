@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anotherlife.ltd/</loc>
+    <lastmod>2022-10-17T12:26:14-05:00</lastmod>
+  </url><url>
+    <loc>https://anotherlife.ltd/posts/another-life/</loc>
+    <lastmod>2022-10-17T12:26:14-05:00</lastmod>
+  </url><url>
+    <loc>https://anotherlife.ltd/posts/</loc>
+    <lastmod>2022-10-17T12:26:14-05:00</lastmod>
+  </url><url>
     <loc>https://anotherlife.ltd/contact/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://anotherlife.ltd/about/</loc>
-  </url><url>
-    <loc>https://anotherlife.ltd/</loc>
   </url><url>
     <loc>https://anotherlife.ltd/categories/</loc>
   </url><url>
